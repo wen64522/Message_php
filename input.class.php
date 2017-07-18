@@ -20,5 +20,6 @@ class input{
         $val=$_GET[$key];
         return $val;
     }
+    function es(){}
 }
 ?>

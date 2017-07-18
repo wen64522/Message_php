@@ -1,0 +1,11 @@
+.log{width: 600px;margin: 20px auto;overflow: hidden;border-color: deepskyblue;border-style: solid;}
+.log .a{float: right;border-color: deepskyblue;border-style: solid;}
+.log .b{float: right;border-color: deepskyblue;border-style: solid;}
+.add{width:600px;margin:0px auto;overflow: hidden; }
+.add textarea{width: 99%;height: 100px;border-color: deepskyblue;}
+.add .user{float: left;border-color: deepskyblue;}
+.add .btn{float: right;}
+.msg{width: 600px;margin: 20px auto;overflow: hidden;}
+.item{border: 1px solid  deepskyblue;margin: 10px 0;}
+.item .user{float: left;}
+.item .time{float: right;}
